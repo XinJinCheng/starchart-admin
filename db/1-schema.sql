@@ -1,5 +1,4 @@
-CREATE DATABASE  IF NOT EXISTS `starchart` /*!40100 DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci */;
-
+CREATE DATABASE  IF NOT EXISTS `starchart` DEFAULT CHARSET utf8 COLLATE utf8_general_ci;
 USE `starchart`;
 
 -- 菜单
