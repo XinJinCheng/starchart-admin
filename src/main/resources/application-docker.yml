@@ -1,3 +1,7 @@
+debug: true
+logging:
+  level:
+    io.renren: debug
 spring:
     datasource:
         type: com.alibaba.druid.pool.DruidDataSource
